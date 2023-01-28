@@ -113,16 +113,4 @@ namespace Calculator // Note: nome do projeto criado.
     }
 }
 
-            // Obs:
-            // a função console fica disponível a partir do momento que o using System é importado.
-            // a função Write exibe algo na tela e a função WriteLine escreve algo e pula uma linha.
-            // a função Read é ler um item e ReadLine é ler uma linha (ele sempre retorna uma string).
-            // o Parse é utilizado para conversão da string para algum outro tipo neste caso o float (número real).
-            // o $ inserido dentro da função é para que haja a interpolação da string, ou seja, pela a variável em formato string e exibe o valor numeral.
-            // void não retorna nada.
-            // a função ReadKey é para não fechar o programa.
-            // não é possível realizar a conversão de sting para float diretamente pelo Console.ReadLine. No exemplo citado acima foi usado a função Parse para realizar tal conversão.
-            // short é o valor mais curto que se pode ter.
-            // switch é uma estrutura de repetição.
-            // default é para quando algo digitado não estiver dentro das opções solicitadas retorne a Main principal.
-            // Para sair do programa é necessário chamar a função System.Environment.Exit e o Existe existe um parâmento e colocamos o 0 para dizer que a saída foi executada com sucesso.
+           
